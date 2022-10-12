@@ -1,0 +1,19 @@
+.technology {
+    padding: 5px;
+    border:2px solid green;
+    color: black;
+    font-size: 15px;
+    height:20px;
+    width:150px;
+    text-align: center;
+    margin-left: 700px;
+  }
+  
+  .box {
+    color:brown;
+    margin-left: 680px;
+    font-weight: 500;
+  }
+  button{
+    margin-left: 700px;
+  }

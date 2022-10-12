@@ -1,0 +1,13 @@
+
+button {
+  padding: 10px;
+  border: 0;
+  background-color:yellow;
+  cursor: pointer;
+}
+
+button:hover {
+  border: double;
+  
+  background-color: pink;
+}
